@@ -1,0 +1,12 @@
+# 编译产物
+build/
+*.o
+*.a
+*.so
+*.out
+a.out
+
+# IDE / 编辑器
+.vscode/
+.idea/
+*.swp
