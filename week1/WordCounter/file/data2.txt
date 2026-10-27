@@ -1,0 +1,6 @@
+apple banana apple orange banana apple grape
+banana apple orange banana apple grape apple
+banana orange apple banana grape banana apple
+orange banana apple grape banana apple banana
+orange apple kiwi banana apple kiwi banana
+apple grape banana apple orange banana apple

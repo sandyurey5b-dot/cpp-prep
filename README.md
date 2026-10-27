@@ -10,3 +10,8 @@
 | leetcode/ | 算法题，按题号命名 |
 | notes/ | C++ 笔记 |
 | log.md | 学习日志 |
+
+以后常规的提交操作：
+git add .
+git commit -m "mystring: 实现拷贝构造和赋值运算符"
+git push
